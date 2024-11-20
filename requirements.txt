@@ -129,7 +129,6 @@ watchdog==4.0.2
 weasel==0.4.1
 wrapt==1.16.0
 yarl==1.17.2
-=======
 altair==5.4.1
 annotated-types==0.7.0
 anyio==4.6.0
