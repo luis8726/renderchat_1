@@ -65,7 +65,6 @@ multidict==6.1.0
 murmurhash==1.0.10
 mypy-extensions==1.0.0
 narwhals==1.8.3
-numpy==2.0.2
 openai==1.54.5
 openpyxl==3.1.5
 orjson==3.10.11
