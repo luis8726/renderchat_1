@@ -8,4 +8,4 @@ faiss-cpu==1.7.2
 python-dotenv==1.0.0
 langchain-openai==0.2.9
 pydantic==1.10.0
-langsmith==0.1.11
+langsmith==0.0.11
